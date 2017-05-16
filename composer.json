@@ -1,29 +1,13 @@
-
-
 {
-	"name":"ceres/ceres",
-	"description":"mini-framework-php in development",
-	"license":"MIT",
-	"keywords":["ceres","framework"],
-	"type":"project",
-	"authors":[
-		{
-		"name":"Rafael Miranda",
-		"email":"r4free@gmail.com"
-		}
-	],
-	"autoload":
-		{
-		"psr-4":{
-			"Ceres\\":"src/"
-		}
-		},
-	"require":
-		{
-		},
-	"require-dev":
-		{
-		}
-		
-
-}
+    "name": "r4free/ceres",
+    "description": "Este pacote foi criado apenas para estudo",
+    "authors": [ 
+        {
+            "name": "Rafael Miranad",
+            "email": "r4free@gmail.com"
+        }
+    ],
+    "require": {
+         "php": ">=5.3.17"
+    }
+ }
