@@ -4,7 +4,6 @@
 	"name":"ceres/ceres",
 	"description":"mini-framework-php in development",
 	"license":"MIT",
-	"version":"0.1-dev",
 	"keywords":["ceres","framework"],
 	"type":"project",
 	"authors":[
