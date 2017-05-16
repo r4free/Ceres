@@ -2,11 +2,12 @@
 {
 	"name":"r4free/Ceres",
 	"description":"mini-framework-php",
-	"authors":{
-		[
-			"name":"Rafael Miranda",
-			"email":r4free@gmail.com"	
+	"authors":[
+		{
+
+		"name":"Rafael Miranda",
+			"email":"r4free@gmail.com"
+		}	
 		]
-	}
 
 }
