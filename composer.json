@@ -3,6 +3,7 @@
 {
 	"name":"r4free/ceres",
 	"description":"mini-framework-php",
+	"license":"MIT",
 	"keywords":["ceres"],
 	"authors":[
 		{
@@ -12,12 +13,14 @@
 	],
 	"autoload":
 		{
-		"Ceres\\":"src"
+		"psr-4":{
+			"Ceres\\":"src"
+		}
 		},
-	"required":
+	"require":
 		{
 		},
-	"required-dev":
+	"require-dev":
 		{
 		}
 		
