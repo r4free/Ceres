@@ -5,6 +5,7 @@
 	"description":"mini-framework-php in development",
 	"license":"MIT",
 	"minimum-stability":"dev",
+	"prefer-stable": false,
 	"type":"project",
 	"authors":[
 		{
