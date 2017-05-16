@@ -1,14 +1,25 @@
 
 
 {
-	"name":"r4free/ceres",
+	"name":"r4free/	ceres",
 	"description":"mini-framework-php",
+	"keywords":["ceres"],
 	"authors":[
 		{
-
 		"name":"Rafael Miranda",
-			"email":"r4free@gmail.com"
-		}	
-		]
+		"email":"r4free@gmail.com"
+		}
+	],
+	"autoload":
+		{
+		"Ceres\\":"src"
+		},
+	"required":
+		{
+		},
+	"required-dev":
+		{
+		}
+		
 
 }
