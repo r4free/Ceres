@@ -4,9 +4,9 @@
 	"name":"r4free/ceres",
 	"description":"mini-framework-php in development",
 	"license":"MIT",
-	"version":"alpha",
-	"keywords":["ceres"],
-	"minimum-stability":"alpha",
+	"version":"0.1-dev",
+	"keywords":["ceres","framework"],
+	"minimum-stability":"dev",
 	"type":"project",
 	"authors":[
 		{
