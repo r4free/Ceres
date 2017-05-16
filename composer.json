@@ -1,6 +1,7 @@
 {
     "name": "r4free/ceres",
     "description": "Este pacote foi criado apenas para estudo",
+    "version":"dev",
     "authors": [ 
         {
             "name": "Rafael Miranad",
