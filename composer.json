@@ -1,30 +1,25 @@
-
-
 {
-	"name":"r4free/ceres",
-	"description":"mini-framework-php in development",
-	"license":"MIT",
-	"version":"0.1-dev",
-	"keywords":["ceres","framework"],
-	"type":"project",
-	"authors":[
-		{
-		"name":"Rafael Miranda",
-		"email":"r4free@gmail.com"
-		}
-	],
-	"autoload":
-		{
-		"psr-4":{
-			"Ceres\\":"src/Ceres"
-		}
-		},
-	"require":
-		{
-		},
-	"require-dev":
-		{
-		}
-		
-
+  "name": "r4free/ceres",
+  "description": "mini-framework-php in development",
+  "license": "MIT",
+  "version": "0.1-dev",
+  "keywords": [
+    "ceres"
+  ],
+  "type": "project",
+  "authors": [
+    {
+      "name": "Rafael Miranda",
+      "email": "r4free@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ceres\\": "src/Ceres"
+    }
+  },
+  "require": {
+  },
+  "require-dev": {
+  }
 }
