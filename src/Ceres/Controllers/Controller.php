@@ -6,12 +6,10 @@
  * Time: 11:17
  */
 
-namespace Ceres\Controller;
+namespace Ceres\Controllers;
 
 
 class Controller
 {
-public function index(){
-    echo "tudo ok";
-}
+
 }

@@ -16,7 +16,10 @@
   "autoload": {
     "psr-4": {
       "Ceres\\": "src/Ceres"
-    }
+    },
+    "files": [
+      "src/Ceres/Helpers.php"
+    ]
   },
   "require": {
   },
