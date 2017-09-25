@@ -13,6 +13,7 @@
       "email": "r4free@gmail.com"
     }
   ],
+  "minimum-stability":"dev",
   "autoload": {
     "psr-4": {
       "Ceres\\": "src/Ceres"
